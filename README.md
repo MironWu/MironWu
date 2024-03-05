@@ -1,6 +1,6 @@
 <h1>Hi, I'm Miron!</h1>
 
-I am master of Geography with speciality of Tourism. I graduated from High School of Economy in Bydgoszcz.</br> I have many interests. One of them is broadly understood IT. I pay attention to details and value quality, which made me interested in software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my gained experience from personal studies and researches.
+I hold a master's degree in Geography with a specialization in Tourism, having graduated from the High School of Economy in Bydgoszcz. My diverse range of interests includes a keen focus on IT. With a meticulous eye for detail and a strong commitment to quality, I find myself drawn to the field of software testing. My objective is to continually enhance my knowledge and technical skills in testing. Through this platform, I aim to share the insights gained from my personal studies and research.
 
 # 👨‍💻 Tech skills
   - SQL
@@ -15,6 +15,7 @@ I am master of Geography with speciality of Tourism. I graduated from High Schoo
    - [ISTQB]( http://scr.istqb.org/?name=Miron+Wankiewicz&number=19777%2FCTFL%2F2023&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=) No 19777/CTFL/2023
 
 # Tools
+  - Github
   - [Jing](https://www.techsmith.com/jing-tool.html) - Screen capture software
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
@@ -24,7 +25,6 @@ I am master of Geography with speciality of Tourism. I graduated from High Schoo
   - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
   - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
-  - Github
   - BlazeMeter (https://www.blazemeter.com/) - Load testing platform
 
 # Courses
