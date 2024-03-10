@@ -3,7 +3,8 @@
 I hold a master's degree in Geography with a specialization in Tourism, having graduated from the High School of Economy in Bydgoszcz. My diverse range of interests includes a keen focus on IT. With a meticulous eye for detail and a strong commitment to quality, I find myself drawn to the field of software testing. My objective is to continually enhance my knowledge and technical skills in testing. Through this platform, I aim to share the insights gained from my personal studies and research.
 
 # 👨‍💻 Tech skills
-  - SQL
+  - [SQL](https://github.com/MironWu/MironWu/assets/29165307/5843a72d-cbec-45c7-a059-26cd6ad33ee7)
+
   - SCRUM
   - DevTools
   - Reporting bugs
@@ -25,8 +26,8 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
   - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
   - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
-  - BlazeMeter (https://www.blazemeter.com/) - Load testing platform
-  - JMeter (https://jmeter.apache.org/) - Load testing and measuring performance
+  - [BlazeMeter](https://www.blazemeter.com/) - Load testing platform
+  - [JMeter](https://jmeter.apache.org/) - Load testing and measuring performance
 # Courses
   - [CODE:ME Podstawy testowania w praktyce](https://codeme.pl/testowanie-poznan/)
 # Recommended blogs
@@ -103,9 +104,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-      
-
