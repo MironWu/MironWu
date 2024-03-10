@@ -4,19 +4,19 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
 
 # 👨‍💻 Tech skills
   - SQL
-  - DevTools
   - SCRUM
-  - Software testing
-  - Creating test cases
+  - DevTools
   - Reporting bugs
-  - Finding uniqe CSS Selectors and xPaths
+  - Software testing
+  - Creating test cases 
   - Creating diagrams and decision tables
+    
 # Certificates
    - [ISTQB]( http://scr.istqb.org/?name=Miron+Wankiewicz&number=19777%2FCTFL%2F2023&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=) No 19777/CTFL/2023
 
 # Tools
-  - Github
-  - [Jing](https://www.techsmith.com/jing-tool.html) - Screen capture software
+  - GIT / Github
+  - [PickPick](https://picpick.softonic.pl/?utm_source=SEM&utm_medium=paid&utm_campaign=PL_PL_PMax_Program_Roblox&gad_source=1&gclid=CjwKCAiA0bWvBhBjEiwAtEsoW1c5UgaySoO3NKesoAkmJ1fyM0fF_VJsYh4SSwfjXv1M9BsOSGTRMBoCd9QQAvD_BwE) - Screen capture software
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
   - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
@@ -26,36 +26,21 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
   - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
   - BlazeMeter (https://www.blazemeter.com/) - Load testing platform
-
+  - JMeter (https://jmeter.apache.org/) - Load testing and measuring performance
 # Courses
   - [CODE:ME Podstawy testowania w praktyce](https://codeme.pl/testowanie-poznan/)
-  - Gfi Technology Academy
-# Books
-  - R.Smilgin - Zawód tester
-# Groups on Facebook
-  - Tester oprogramowania - wsparcie na starcie
-  - Testowanie oprogramowania
-  - Girls Who Tests
-  - Gildia Testerów
 # Recommended blogs
   - testerzy.pl
-  - testuj.pl - Test, Bugs & Rock'n'Roll
-  - remigiuszbednarczyk.pl
-  - pwicherski.gitbook.io
-  - GeekON
+  - testuj.pl 
 # Webinars
   - GeekON - praktyczne ćwiczenie SQL
   - Szkoła testera - podstawy testowania
-# Articles
-  - [Article about creating portfolio in GitHub using my portfolio as example](https://remigiuszbednarczyk.pl/portfolio-testera?fbclid=IwAR2jX5Kqys6g0o9xi0qkzqhDKy3p0hIHajaN8dO6NFyh5w1NwMnlQrq8-aQ)
 # My test case examples
   - [Test cases for site lubimyczytac.pl](https://drive.google.com/file/d/1D0U3e0dmMuxV9BhgH6o3SbcsDLrxSCTp/view)
 # My bug reports
   - [Bugs reported for jakdojade.pl site](https://drive.google.com/file/d/1sT9iaFAbBvyUNfqiVNUetuxjsRdTjKRV/view)
 # My examples of diagrams and decision tables
   - [Diagrams and decision tables for stoper, railway lights and registration](https://drive.google.com/file/d/1jDg-xa5rFRCqwA4Cl1hcMg7UcEmo09Ky/view)
-# My examples of CSS Selectors and xPaths
-  - [Finding uniqe CSS Selectors and xPaths on site ikea.pl](https://drive.google.com/file/d/1lmKfiTYA3y2gaFRNU5nNoFZy0evKpy3a/view)
 # My projects
   -  [Tablica trello.com](https://trello.com/b/qbhouzlq/testing-bootcamp)
   -  -
