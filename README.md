@@ -23,9 +23,9 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
   - GIT / Github
   - [PickPick](https://picpick.softonic.pl/?utm_source=SEM&utm_medium=paid&utm_campaign=PL_PL_PMax_Program_Roblox&gad_source=1&gclid=CjwKCAiA0bWvBhBjEiwAtEsoW1c5UgaySoO3NKesoAkmJ1fyM0fF_VJsYh4SSwfjXv1M9BsOSGTRMBoCd9QQAvD_BwE) - Screen capture software
   - [Postman](https://www.postman.com/) - Testing tool for REST API
-  - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
+  - Atlassian: Jira, Trello- Issue tracking and project management tool for developers
   - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
-  - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
+  - [Testlink](https://testlink.org/) - Test management tool
   - [Xmind](https://www.xmind.net/) - Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
   - [BlazeMeter](https://www.blazemeter.com/) - Load testing platform
@@ -44,10 +44,10 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
   - Youtube:
      - SoftwaretestingMKT
      - Testuj.pl
-     - Technika Programowania
+     - Rafał Podraza
      - SDET-QA Automation: [QA Manual Testing Full Course](https://www.youtube.com/watch?v=QJqNYhiHysM&list=PLUDwpEzHYYLuMijnpSMKtv14sUuJLlgt_), [Manual Software Testing Training](https://www.youtube.com/watch?v=oOvURgHcd4w&list=PLUDwpEzHYYLseflPNg0bUKfLmAbO2JnE9)
-
-
+# My projects / under construction :hammer:
+  -  [Tablica trello.com](https://trello.com/b/qbhouzlq/testing-bootcamp) 
 # Recommended blogs
   - testerzy.pl
   - testuj.pl 
@@ -58,8 +58,7 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
   - [Bugs reported for jakdojade.pl site](https://drive.google.com/file/d/1sT9iaFAbBvyUNfqiVNUetuxjsRdTjKRV/view)
 # My examples of diagrams and decision tables
   - [Diagrams and decision tables for stoper, railway lights and registration](https://drive.google.com/file/d/1jDg-xa5rFRCqwA4Cl1hcMg7UcEmo09Ky/view)
-# My projects
-  -  [Tablica trello.com](https://trello.com/b/qbhouzlq/testing-bootcamp)
+
   -  -
   - Individual project
      - testing site [zara.com](https://www.zara.com/pl/)
