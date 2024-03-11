@@ -5,21 +5,21 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
 # 👨‍💻 Tech skills
   - [SQL](https://github.com/MironWu/MironWu/assets/29165307/5843a72d-cbec-45c7-a059-26cd6ad33ee7)
 
-  - SCRUM
+  - Agile Methodology: SCRUM
   - DevTools
   - Reporting bugs
   - Software testing
   - Creating test cases 
   - Creating diagrams and decision tables
     
-# Certificates
+# Certificates acquired
    - [ISTQB]( http://scr.istqb.org/?name=Miron+Wankiewicz&number=19777%2FCTFL%2F2023&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=) No 19777/CTFL/2023
    - Sololearn: [HTML](https://github.com/MironWu/MironWu/assets/29165307/a28068e8-7001-4590-94ab-73b4c22266ce)
 [CSS](https://github.com/MironWu/MironWu/assets/29165307/db19ad60-cd36-40ef-ab1b-2057adb35900)
  [JS](https://github.com/MironWu/MironWu/assets/29165307/e0d9adcf-bc99-4700-abd8-6e6688496fe9)
 
 
-# Tools
+# Tools used
   - GIT / Github
   - [PickPick](https://picpick.softonic.pl/?utm_source=SEM&utm_medium=paid&utm_campaign=PL_PL_PMax_Program_Roblox&gad_source=1&gclid=CjwKCAiA0bWvBhBjEiwAtEsoW1c5UgaySoO3NKesoAkmJ1fyM0fF_VJsYh4SSwfjXv1M9BsOSGTRMBoCd9QQAvD_BwE) - Screen capture software
   - [Postman](https://www.postman.com/) - Testing tool for REST API
@@ -30,16 +30,28 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
   - [BlazeMeter](https://www.blazemeter.com/) - Load testing platform
   - [JMeter](https://jmeter.apache.org/) - Load testing and measuring performance
-# Courses
+# Courses taken
   - [CODE:ME Podstawy testowania w praktyce](https://codeme.pl/testowanie-poznan/)
+  - GoIT Online marathons:
+    * QA
+    * Data Analyst
+    * TestDrive GoIT:	FullStack Dev, web designer, QA		(including Figma, VS Code, html/css/js)
+  - Udemy:
+    * [The Complete 2024 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/learn/lecture/42087190?start=15#overview)
+    * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/learn/lecture/35644142?start=0#overview)
+    * [The Complete Web Penetration Testing & Bug Bounty Course](https://www.udemy.com/course/pentesting/learn/lecture/20637350?start=0#overview) / in progress
+  - [UTest](https://www.utest.com/)
+  - Youtube:
+     - SoftwaretestingMKT
+     - Testuj.pl
+     - Technika Programowania
+     - SDET-QA Automation: [QA Manual Testing Full Course](https://www.youtube.com/watch?v=QJqNYhiHysM&list=PLUDwpEzHYYLuMijnpSMKtv14sUuJLlgt_), [Manual Software Testing Training](https://www.youtube.com/watch?v=oOvURgHcd4w&list=PLUDwpEzHYYLseflPNg0bUKfLmAbO2JnE9)
+
+
 # Recommended blogs
   - testerzy.pl
   - testuj.pl 
-# Online marathons
-  - Marathon GoIT:	QA
-  - Marathon GoIT:	Data Analyst
-  - TestDrive GoIT:	FullStack Dev, web designer, QA		(including Figma, VS Code, html/css/js)
-
+<!--
 # My test case examples
   - [Test cases for site lubimyczytac.pl](https://drive.google.com/file/d/1D0U3e0dmMuxV9BhgH6o3SbcsDLrxSCTp/view)
 # My bug reports
@@ -49,7 +61,8 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
 # My projects
   -  [Tablica trello.com](https://trello.com/b/qbhouzlq/testing-bootcamp)
   -  -
-  - Individual project - testing site [zara.com](https://www.zara.com/pl/)
+  - Individual project
+     - testing site [zara.com](https://www.zara.com/pl/)
      - [Report](https://drive.google.com/file/d/1AlygpsNK0Og1H7g8RRQjQs1e9LRotXYw/view)
      - [Test cases](https://drive.google.com/file/d/1Uq7kXvy8JQsqhCOky5Yaqh4KbcbLyH9x/view)
      - [Test cases - regression testing](https://drive.google.com/file/d/1R5v7_HHsPG_CWcFRJJl0OmJ2qRvBJSNE/view)
@@ -94,7 +107,7 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
