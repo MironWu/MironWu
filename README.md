@@ -10,7 +10,6 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
   - Reporting bugs
   - Software testing
   - Creating test cases 
-  - Creating diagrams and decision tables
     
 # Certificates acquired
    - [ISTQB]( http://scr.istqb.org/?name=Miron+Wankiewicz&number=19777%2FCTFL%2F2023&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=) No 19777/CTFL/2023
@@ -38,7 +37,7 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
     * TestDrive GoIT:	FullStack Dev, web designer, QA		(including Figma, VS Code, html/css/js)
   - Udemy:
     * [The Complete 2024 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/learn/lecture/42087190?start=15#overview)
-    * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/learn/lecture/35644142?start=0#overview)
+    * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/learn/lecture/35644142?start=0#overview) with [Certificate](https://github.com/MironWu/MironWu/assets/29165307/40990574-4fdf-4058-af08-929a0f704a9d)
     * [The Complete Web Penetration Testing & Bug Bounty Course](https://www.udemy.com/course/pentesting/learn/lecture/20637350?start=0#overview) / in progress
   - [UTest](https://www.utest.com/)
   - Youtube:
