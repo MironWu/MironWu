@@ -45,11 +45,13 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
      - Testuj.pl
      - Rafał Podraza
      - SDET-QA Automation: [QA Manual Testing Full Course](https://www.youtube.com/watch?v=QJqNYhiHysM&list=PLUDwpEzHYYLuMijnpSMKtv14sUuJLlgt_), [Manual Software Testing Training](https://www.youtube.com/watch?v=oOvURgHcd4w&list=PLUDwpEzHYYLseflPNg0bUKfLmAbO2JnE9)
+     - [Excel VBA Beginner Tutorial](https://www.youtube.com/watch?v=G05TrN7nt6k&list=PLoyECfvEFOjYYy54Wa9E83xycKilVMoHp&index=1&t=2s) / in progress
 # My projects / under construction :hammer:
   -  [Tablica trello.com](https://trello.com/b/qbhouzlq/testing-bootcamp) 
 # Recommended blogs
   - testerzy.pl
-  - testuj.pl 
+  - testuj.pl
+    
 <!--
 # My test case examples
   - [Test cases for site lubimyczytac.pl](https://drive.google.com/file/d/1D0U3e0dmMuxV9BhgH6o3SbcsDLrxSCTp/view)
