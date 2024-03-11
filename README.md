@@ -14,6 +14,10 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
     
 # Certificates
    - [ISTQB]( http://scr.istqb.org/?name=Miron+Wankiewicz&number=19777%2FCTFL%2F2023&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=) No 19777/CTFL/2023
+   - Sololearn: [HTML](https://github.com/MironWu/MironWu/assets/29165307/a28068e8-7001-4590-94ab-73b4c22266ce)
+[CSS](https://github.com/MironWu/MironWu/assets/29165307/db19ad60-cd36-40ef-ab1b-2057adb35900)
+ [JS](https://github.com/MironWu/MironWu/assets/29165307/e0d9adcf-bc99-4700-abd8-6e6688496fe9)
+
 
 # Tools
   - GIT / Github
@@ -22,9 +26,7 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
   - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
   - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
-  - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
-  - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
-  - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
+  - [Xmind](https://www.xmind.net/) - Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
   - [BlazeMeter](https://www.blazemeter.com/) - Load testing platform
   - [JMeter](https://jmeter.apache.org/) - Load testing and measuring performance
@@ -33,9 +35,11 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
 # Recommended blogs
   - testerzy.pl
   - testuj.pl 
-# Webinars
-  - GeekON - praktyczne ćwiczenie SQL
-  - Szkoła testera - podstawy testowania
+# Online marathons
+  - Marathon GoIT:	QA
+  - Marathon GoIT:	Data Analyst
+  - TestDrive GoIT:	FullStack Dev, web designer, QA		(including Figma, VS Code, html/css/js)
+
 # My test case examples
   - [Test cases for site lubimyczytac.pl](https://drive.google.com/file/d/1D0U3e0dmMuxV9BhgH6o3SbcsDLrxSCTp/view)
 # My bug reports
