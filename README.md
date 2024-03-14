@@ -1,3 +1,5 @@
+🔨 UNDER CONSTRUCTION
+<!--
 <h1>Hi, I'm Miron!</h1>
 
 I hold a master's degree in Geography with a specialization in Tourism, having graduated from the High School of Economy in Bydgoszcz. My diverse range of interests includes a keen focus on IT. With a meticulous eye for detail and a strong commitment to quality, I find myself drawn to the field of software testing. My objective is to continually enhance my knowledge and technical skills in testing. Through this platform, I aim to share the insights gained from my personal studies and research.
@@ -52,7 +54,7 @@ I hold a master's degree in Geography with a specialization in Tourism, having g
   - testerzy.pl
   - testuj.pl
     
-<!--
+
 # My test case examples
   - [Test cases for site lubimyczytac.pl](https://drive.google.com/file/d/1D0U3e0dmMuxV9BhgH6o3SbcsDLrxSCTp/view)
 # My bug reports
